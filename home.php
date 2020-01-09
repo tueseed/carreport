@@ -2,7 +2,7 @@
     <div class='col-lg-12'>
         <div class='card shadow'>
             <div class='card-header'>
-                k;vjx;vj
+                <span class='text-success font-weight-bold'>ข้อมูลรถยนต์</span>
             </div>
             <div class='card-body'>
             </div>
