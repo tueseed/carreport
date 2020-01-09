@@ -1,5 +1,5 @@
 <?php require('./utils/array_utils.php'); ?>
-<?php require('./utils/db_connector.php'); ?>
+<?php //require('./utils/db_connector.php'); ?>
 <?php 
   // check 'action' from get params
   if(!array_key_exists("action", $_GET)){
