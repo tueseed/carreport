@@ -7,7 +7,7 @@
     exit(0);
   }
   // get action value from action key in $_GET
-//   $action = $_GET['action'];
+   $action = $_GET['action'];
 //   if(array_key_exists("rg", $_GET)){$rg = $_GET['rg'];}
   
 ?>
