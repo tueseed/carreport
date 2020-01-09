@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Est-Sap - โปรแกรมติดตามงานก่อสร้างระบบไฟฟ้า</title>
+    <title>โปรแกรมบันทึกการใช้งานรถยนต์ กฟภ.</title>
     <link rel="stylesheet" href="./assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="./assets/css/theme_1545570683953.css">
     <link href="https://fonts.googleapis.com/css?family=Sarabun|Roboto" rel="stylesheet">
@@ -27,9 +27,9 @@
         <div class="container-fluid">
           <a class="navbar-brand font-weight-bold" href="?action=rg1">
             <img src="./assets/images/pea-logo.png" width="100" class="d-inline-block align-top" alt="">
-            โปรแกรมติดตามงานก่อสร้างระบบไฟฟ้า <span id="head_peaname"></span>
+            โปรแกรมบันทึกการใช้งานรถยนต์ กฟภ. <span id="head_peaname"></span>
           </a>
-          <div class="dropdown">
+          <!-- <div class="dropdown">
             <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown">
               <span class="header text-dark font-weight-bold text-center" id="user_logged">
                 ยังไม่ได้เข้าสู่ระบบ
@@ -59,7 +59,7 @@
                   <i class="fas fa-sign-out-alt fa-sm fa-fw mr-2 text-gray-400"></i>
                   ออกจากระบบ
                 </a>
-            </div>
+            </div> -->
           </div>
         </div>
       </nav>
