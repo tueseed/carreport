@@ -1,0 +1,32 @@
+.overlay {
+    position: absolute; 
+  bottom: 0;
+  top:0; 
+  background: rgb(112, 62, 145);
+  background: rgba(112, 62, 145, 0.9); /* Black see-through */
+  color: #703E91; 
+  width: 100%;
+  transition: 1s ease;
+  opacity:0;
+  color: white;
+  font-size: 40px;
+  padding: 20px;
+  text-align: center;
+  }
+  
+  .card:hover .overlay {
+    opacity: 1;
+  }
+
+  .chart-container {
+    position: relative;
+    margin: auto;
+    height: 60vh;
+    width: 50vw;
+  }
+
+  
+
+
+
+  

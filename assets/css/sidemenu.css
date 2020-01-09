@@ -1,0 +1,76 @@
+.sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: hsl(276, 40%, 41%);
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+    }
+
+.sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #fdfcfc;
+    display: block;
+    transition: 0.3s;
+    }
+
+.sidenav a:hover {
+    color: #fdfbfb;
+    }
+.nav-link:hover
+{
+    background-color: hsl(0, 0%, 4%,0.2);
+}
+    .sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+    }
+
+    @media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+    }
+    .dot {
+            height: 100px;
+            width: 100px;
+            background-color: #703E91;
+            border-radius: 50%;
+            display: block;
+            }
+    .menu {
+            margin: 0 auto;
+            position: absolute;
+            top: 50%;
+            left: -3%;
+            margin-left: -25px;
+            margin-top: -25px;
+                    }
+    
+    .dotcls {
+                        height: 100px;
+                        width: 100px;
+                        background-color: rgb(76, 60, 87);
+                        border-radius: 50%;
+                        display: block;
+                        }
+    .cls_menu {
+                        margin: 0 auto;
+                        position: absolute;
+                        top: 50%;
+                        left: 90%;
+                        margin-left: -25px;
+                        margin-top: -25px;
+                                }
+    .msg {
+                height:250px;
+                overflow-y: scroll;
+            }                          
