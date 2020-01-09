@@ -7,8 +7,8 @@
     exit(0);
   }
   // get action value from action key in $_GET
-  $action = $_GET['action'];
-  if(array_key_exists("rg", $_GET)){$rg = $_GET['rg'];}
+//   $action = $_GET['action'];
+//   if(array_key_exists("rg", $_GET)){$rg = $_GET['rg'];}
   
 ?>
 <?php require('./partials/header.php'); ?>
