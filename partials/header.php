@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>โปรแกรมบันทึกการใช้งานรถยนต์ กฟภ.</title>
+    <title>BCMS1</title>
     <link rel="stylesheet" href="./assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="./assets/css/theme_1545570683953.css">
     <link href="https://fonts.googleapis.com/css?family=Sarabun|Roboto" rel="stylesheet">
@@ -27,7 +27,7 @@
         <div class="container-fluid">
           <a class="navbar-brand font-weight-bold" href="?action=rg1">
             <img src="./assets/images/pea-logo.png" width="100" class="d-inline-block align-top" alt="">
-            โปรแกรมบันทึกการใช้งานรถยนต์ กฟภ. <span id="head_peaname"></span>
+            BCMS1<span id="head_peaname"></span>
           </a>
           <!-- <div class="dropdown">
             <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown">
