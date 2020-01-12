@@ -77,3 +77,23 @@
         </div>
     </a>
 </div>
+
+<div class='row mt-3'>
+    <a class='col-lg-12' href='https://drive.google.com/open?id=1Zse093A42OdJ_3ua0K7Ni7VU0NBKlTvt'>
+        <div class='card shadow'>
+            <div class='card-body'>
+            <span class='text-success font-weight-bold'>แผน BCM</span>
+            </div>
+        </div>
+    </a>
+</div>
+
+<div class='row mt-3'>
+    <a class='col-lg-12' href='https://drive.google.com/open?id=1Qi2E1lGlvoA1lTjiRC3IVN6v1qNh8K_h'>
+        <div class='card shadow'>
+            <div class='card-body'>
+            <span class='text-success font-weight-bold'>ฝบส</span>
+            </div>
+        </div>
+    </a>
+</div>
