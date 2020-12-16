@@ -1,6 +1,6 @@
- <div class="row ml-2 mr-2">
+ <!-- <div class="row ml-2 mr-2">
   <span class="text-primary font-weight-bold" style="font-size:36px;">ระบบรายงานการใช้รถยนต์</span>
- </div>
+ </div> -->
  <div class="row ml-2 mr-2" id="data_area">
   <!-- <div class="col-lg-3">
     <div class="card mt-2">
